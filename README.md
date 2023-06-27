@@ -1,7 +1,7 @@
-![image](https://github.com/FaizalLeviansyah/Computational_Statisthics_UAS/assets/91838778/6253f5e6-e740-4028-9203-d25c66f3662b)# Computational_Statisthics_UAS
+Computational_Statisthics_UAS
 Computational statistics is a branch of statistics that focuses on the development and use of computer algorithms to solve statistical problems. It is a rapidly growing field, as the increasing availability of computational power has made it possible to analyze large and complex datasets. we get the material from our lecturer named : Mr.Septian Eng
 
-======================================================================
+==============================
 <Background>
   Over time, the medicine’s effective time shortens, causing discomfort among PD patients. 
 Thus, PD patients and clinicians must monitor and record the patient symptom changes for adequate treatment. 
@@ -10,8 +10,8 @@ It primarily affects the patient's motor abilities, but it also has an impact on
 Patients' symptoms include tremors, muscle stiffness, and difficulty walking and balancing. 
 Then it disrupts the patients' sleep, speech, and mental functions, affecting their quality of life (QoL). With the improvement of wearable devices, patients can be continuously monitored with the help of cell phones and fitness trackers. We use these technologies to monitor patients' health, record WO periods, and document.
 the impact of treatment on their symptoms in order to predict the wearing-off phenomenon in Parkinson's disease patients.
-========================================================================
-========================================================================
+==============================
+==============================
 <Task>
 Using multiple linear regression, try to find the best regression model that is suitable to represent the case: 
 helping the doctors to create specific treatment strategies to manage Parkinson's disease and its associated symptoms properly. 
